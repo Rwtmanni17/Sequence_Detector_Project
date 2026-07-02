@@ -27,3 +27,19 @@ This project demonstrates the design and verification of a Sequence Detector usi
 - Serial Data Processing
 - Protocol Design
 - ASIC & FPGA Design
+
+---
+
+## RTL Schematic
+
+<p align="center">
+  <img src="images/rtl_schematic.png" width="800">
+</p>
+
+---
+
+## Simulation Waveform
+
+<p align="center">
+  <img src="images/waveform.png" width="800">
+</p>
